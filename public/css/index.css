@@ -1,13 +1,13 @@
 
 canvas {
-    width: 100%;
+    width: 80%;
 }
 
 @font-face {
-    font-family: 'Timesnewroman';
-    src: url('../fonts/Flama-Regular.woff') format('woff2');
+    font-family: 'Lucida Caligraphy';
+    src: url('../fonts/Lucida-Caligraphy.woff') format('woff2');
     font-weight: 100;
-    font-style: normal;
+    font-style: cursive;
 }
 
 .top_bar_container {
@@ -19,14 +19,14 @@ canvas {
 }
 
 .title {
-    font-family: 'Timesnewroman', sans-serif;
+    font-family: 'Lucida caligraphy', sans-serif;
     font-size: 28px;
     margin-top: 10px;
     margin-bottom: 20px;
 }
 
 .select-container{
-    font-family: 'Flama', sans-serif;
+    font-family: 'lucida', sans-serif;
     background-color: #f9f9f9;
     width:25%;
     border-radius: 8px;
@@ -40,7 +40,7 @@ canvas {
 }
 
 .full-width {
-    width: 100%;
+    width: 80%;
 }
 
 .top-nav-icons-container {
