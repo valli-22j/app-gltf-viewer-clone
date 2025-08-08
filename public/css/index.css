@@ -4,22 +4,22 @@ canvas {
 }
 
 @font-face {
-    font-family: 'Flama';
+    font-family: 'Timesnewroman';
     src: url('../fonts/Flama-Regular.woff') format('woff2');
     font-weight: 100;
     font-style: normal;
 }
 
 .top_bar_container {
-    background-color: white;
+    background-color: gray;
     display: flex; 
     flex-direction: column; 
-    align-items: center; 
-    text-align: center;
+    align-items: left; 
+    text-align: left;
 }
 
 .title {
-    font-family: 'Flama', sans-serif;
+    font-family: 'Timesnewroman', sans-serif;
     font-size: 28px;
     margin-top: 10px;
     margin-bottom: 20px;
